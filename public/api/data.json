@@ -1,0 +1,100 @@
+[
+  {
+    "id": 2,
+    "created": "2023-12-12T12:34:35.010803Z",
+    "place": "Villa Carlos Paz",
+    "ammount": 32,
+    "img": "/media/land/default.jpg",
+    "description": "Un espacio de reforestación donde cada planta es un paso hacia un ambiente más saludable y equilibrado.",
+    "get_coordinated": [-31.4275253, -64.5252503],
+    "count_tree": 0,
+    "tree": [],
+    "count_typetree": 1,
+    "type_tree": [
+      {
+        "id": 5,
+        "name": "Maitén",
+        "common_name": "Maitén",
+        "scientific_name": "Maytenus boaria",
+        "description": "El Maitén (Maytenus boaria) es un árbol nativo de Sudamérica que alcanza alturas de hasta 15 metros. Sus ramas están cubiertas por una corteza de color grisáceo que se desprende en placas delgadas, revelando un tronco liso de tonos más claros. Sus hojas son pequeñas y verde brillante, con pequeñas flores blancas que forman racimos en primavera. Es apreciado por su madera resistente y su uso ornamental en jardinería."
+      },
+      {
+        "id": 6,
+        "name": "Coihue",
+        "common_name": "Coihue",
+        "scientific_name": "Nothofagus dombeyi",
+        "description": "El Coihue (Nothofagus dombeyi) es un árbol imponente que se encuentra principalmente en los bosques templados del sur de Chile y Argentina. Puede alcanzar alturas de hasta 40 metros y tiene una corteza gris oscuro y rugosa. Sus hojas son ovaladas y de color verde intenso, tornándose amarillentas en otoño antes de caer. Es conocido por su madera duradera y su importancia ecológica como hábitat de diversas especies de flora y fauna."
+      },
+      {
+        "id": 7,
+        "name": "Algarrobo",
+        "common_name": "Algarrobo",
+        "scientific_name": "Prosopis",
+        "description": "El Algarrobo (Prosopis spp.) es un árbol emblemático de las regiones áridas y semiáridas de América del Sur. Puede crecer hasta 20 metros de altura y tiene una copa amplia y frondosa con hojas compuestas y pequeñas flores amarillas o blancas que producen vainas de semillas comestibles. Es valorado por su madera resistente y su importancia cultural como fuente de alimento y sombra en las zonas áridas."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "created": "2023-12-12T12:34:35.010803Z",
+    "place": "Santiago del Estero",
+    "ammount": 45,
+    "img": "/media/land/default.jpg",
+    "description": "Un sendero de esperanza entre árboles jóvenes, donde la naturaleza florece de nuevo.",
+    "get_coordinated": [-28.2248862, -63.6756931],
+    "count_tree": 0,
+    "tree": [],
+    "count_typetree": 1,
+    "type_tree": [
+      {
+        "id": 6,
+        "name": "Coihue",
+        "common_name": "Coihue",
+        "scientific_name": "Nothofagus dombeyi",
+        "description": "El Coihue (Nothofagus dombeyi) es un árbol imponente que se encuentra principalmente en los bosques templados del sur de Chile y Argentina. Puede alcanzar alturas de hasta 40 metros y tiene una corteza gris oscuro y rugosa. Sus hojas son ovaladas y de color verde intenso, tornándose amarillentas en otoño antes de caer. Es conocido por su madera duradera y su importancia ecológica como hábitat de diversas especies de flora y fauna."
+      },
+      {
+        "id": 7,
+        "name": "Algarrobo",
+        "common_name": "Algarrobo",
+        "scientific_name": "Prosopis",
+        "description": "El Algarrobo (Prosopis spp.) es un árbol emblemático de las regiones áridas y semiáridas de América del Sur. Puede crecer hasta 20 metros de altura y tiene una copa amplia y frondosa con hojas compuestas y pequeñas flores amarillas o blancas que producen vainas de semillas comestibles. Es valorado por su madera resistente y su importancia cultural como fuente de alimento y sombra en las zonas áridas."
+      },
+      {
+        "id": 8,
+        "name": "Palma",
+        "common_name": "Palma",
+        "scientific_name": "Arecaceae",
+        "description": "Las palmas (familia Arecaceae) incluyen una amplia variedad de árboles y arbustos caracterizados por sus hojas grandes y en forma de abanico o plumas. Pueden ser árboles solitarios de troncos delgados y altos, como las palmas datileras, o formar densos grupos con múltiples tallos como las palmeras tropicales. Las palmas se encuentran en una variedad de hábitats, desde selvas tropicales hasta desiertos, y son apreciadas por su belleza ornamental y su utilidad para la producción de aceite de palma y otras materias primas."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "created": "2023-12-12T12:34:35.010803Z",
+    "place": "La Rioja",
+    "ammount": 20,
+    "img": "/media/land/default.jpg",
+    "description": "Donde cada árbol es un nuevo comienzo para nuestra tierra y un refugio para la vida salvaje.",
+    "get_coordinated": [-29.4395396, -66.908963],
+    "count_tree": 0,
+    "tree": [],
+    "count_typetree": 1,
+    "type_tree": [
+      {
+        "id": 5,
+        "name": "Maitén",
+        "common_name": "Maitén",
+        "scientific_name": "Maytenus boaria",
+        "description": "El Maitén (Maytenus boaria) es un árbol nativo de Sudamérica que alcanza alturas de hasta 15 metros. Sus ramas están cubiertas por una corteza de color grisáceo que se desprende en placas delgadas, revelando un tronco liso de tonos más claros. Sus hojas son pequeñas y verde brillante, con pequeñas flores blancas que forman racimos en primavera. Es apreciado por su madera resistente y su uso ornamental en jardinería."
+      },
+      {
+        "id": 8,
+        "name": "Palma",
+        "common_name": "Palma",
+        "scientific_name": "Arecaceae",
+        "description": "Las palmas (familia Arecaceae) incluyen una amplia variedad de árboles y arbustos caracterizados por sus hojas grandes y en forma de abanico o plumas. Pueden ser árboles solitarios de troncos delgados y altos, como las palmas datileras, o formar densos grupos con múltiples tallos como las palmeras tropicales. Las palmas se encuentran en una variedad de hábitats, desde selvas tropicales hasta desiertos, y son apreciadas por su belleza ornamental y su utilidad para la producción de aceite de palma y otras materias primas."
+      }
+    ]
+  }
+]

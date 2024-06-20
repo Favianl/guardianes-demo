@@ -1,0 +1,30 @@
+.searchBar {
+  display: flex;
+  max-width: 400px;
+  margin: 0 auto;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px 8px;
+  gap: 8px;
+}
+
+.searchBar input {
+  padding: 9px;
+  flex: 1;
+  border: none;
+  background: #d6d6d6;
+  border-radius: 15px;
+  margin-right: 5px;
+  text-indent: 2em;
+}
+
+.searchbutton {
+  position: absolute;
+  border: none;
+  background-color: transparent;
+  padding: 6px;
+}
+
+.searchbutton:hover {
+  background-color: transparent;
+}

@@ -1,0 +1,105 @@
+[
+  {
+    "adoptionId": "5e5a007c-a230-47c0-84bb-9f4803c7152e",
+    "typeId": 6,
+    "landId": 5,
+    "typeName": "Coihue",
+    "typeCommonName": "Coihue",
+    "typeScientificName": "Nothofagus dombeyi",
+    "description": "El Coihue (Nothofagus dombeyi) es un árbol imponente que se encuentra principalmente en los bosques templados del sur de Chile y Argentina. Puede alcanzar alturas de hasta 40 metros y tiene una corteza gris oscuro y rugosa. Sus hojas son ovaladas y de color verde intenso, tornándose amarillentas en otoño antes de caer. Es conocido por su madera duradera y su importancia ecológica como hábitat de diversas especies de flora y fauna.",
+    "adoptionDate": "01/03/2023"
+  },
+  {
+    "adoptionId": "b6e6f9cd-a86c-4c44-a6dd-21e70d0b2ca7",
+    "typeId": 8,
+    "landId": 5,
+    "typeName": "Palma",
+    "typeCommonName": "Palma",
+    "typeScientificName": "Arecaceae",
+    "description": "Las palmas (familia Arecaceae) incluyen una amplia variedad de árboles y arbustos caracterizados por sus hojas grandes y en forma de abanico o plumas. Pueden ser árboles solitarios de troncos delgados y altos, como las palmas datileras, o formar densos grupos con múltiples tallos como las palmeras tropicales. Las palmas se encuentran en una variedad de hábitats, desde selvas tropicales hasta desiertos, y son apreciadas por su belleza ornamental y su utilidad para la producción de aceite de palma y otras materias primas.",
+    "adoptionDate": "01/03/2023",
+    "customName": "Mi Palma"
+  },
+  {
+    "adoptionId": "8824dfee-3b84-45eb-ab56-84ff233a7bc9",
+    "typeId": 5,
+    "landId": 9,
+    "typeName": "Maitén",
+    "typeCommonName": "Maitén",
+    "typeScientificName": "Maytenus boaria",
+    "description": "El Maitén (Maytenus boaria) es un árbol nativo de Sudamérica que alcanza alturas de hasta 15 metros. Sus ramas están cubiertas por una corteza de color grisáceo que se desprende en placas delgadas, revelando un tronco liso de tonos más claros. Sus hojas son pequeñas y verde brillante, con pequeñas flores blancas que forman racimos en primavera. Es apreciado por su madera resistente y su uso ornamental en jardinería.",
+    "adoptionDate": "01/03/2023"
+  },
+  {
+    "adoptionId": "352b3071-0d17-45db-8147-fb754057bb27",
+    "typeId": 5,
+    "landId": 9,
+    "typeName": "Maitén",
+    "typeCommonName": "Maitén",
+    "typeScientificName": "Maytenus boaria",
+    "description": "El Maitén (Maytenus boaria) es un árbol nativo de Sudamérica que alcanza alturas de hasta 15 metros. Sus ramas están cubiertas por una corteza de color grisáceo que se desprende en placas delgadas, revelando un tronco liso de tonos más claros. Sus hojas son pequeñas y verde brillante, con pequeñas flores blancas que forman racimos en primavera. Es apreciado por su madera resistente y su uso ornamental en jardinería.",
+    "adoptionDate": "01/03/2023",
+    "customName": "Mi Arbolito"
+  },
+  {
+    "adoptionId": "9f13ed12-cc15-453a-9684-3056394794fd",
+    "typeId": 6,
+    "landId": 2,
+    "typeName": "Coihue",
+    "typeCommonName": "Coihue",
+    "typeScientificName": "Nothofagus dombeyi",
+    "description": "El Coihue (Nothofagus dombeyi) es un árbol imponente que se encuentra principalmente en los bosques templados del sur de Chile y Argentina. Puede alcanzar alturas de hasta 40 metros y tiene una corteza gris oscuro y rugosa. Sus hojas son ovaladas y de color verde intenso, tornándose amarillentas en otoño antes de caer. Es conocido por su madera duradera y su importancia ecológica como hábitat de diversas especies de flora y fauna.",
+    "adoptionDate": "01/03/2023"
+  },
+  {
+    "adoptionId": "d09ed665-a142-41b4-b040-009f2a542458",
+    "typeId": 7,
+    "landId": 2,
+    "typeName": "Algarrobo",
+    "typeCommonName": "Algarrobo",
+    "typeScientificName": "Prosopis",
+    "description": "El Algarrobo (Prosopis spp.) es un árbol emblemático de las regiones áridas y semiáridas de América del Sur. Puede crecer hasta 20 metros de altura y tiene una copa amplia y frondosa con hojas compuestas y pequeñas flores amarillas o blancas que producen vainas de semillas comestibles. Es valorado por su madera resistente y su importancia cultural como fuente de alimento y sombra en las zonas áridas.",
+    "adoptionDate": "01/03/2023"
+  },
+  {
+    "adoptionId": "79a9168d-8be1-4867-a637-cca970c468be",
+    "typeId": 7,
+    "landId": 2,
+    "typeName": "Algarrobo",
+    "typeCommonName": "Algarrobo",
+    "typeScientificName": "Prosopis",
+    "description": "El Algarrobo (Prosopis spp.) es un árbol emblemático de las regiones áridas y semiáridas de América del Sur. Puede crecer hasta 20 metros de altura y tiene una copa amplia y frondosa con hojas compuestas y pequeñas flores amarillas o blancas que producen vainas de semillas comestibles. Es valorado por su madera resistente y su importancia cultural como fuente de alimento y sombra en las zonas áridas.",
+    "adoptionDate": "01/03/2023",
+    "customName": "Frondoso"
+  },
+  {
+    "adoptionId": "ae812b48-c8f6-4097-b738-3ee1a47d85e2",
+    "typeId": 8,
+    "landId": 9,
+    "typeName": "Palma",
+    "typeCommonName": "Palma",
+    "typeScientificName": "Arecaceae",
+    "description": "Las palmas (familia Arecaceae) incluyen una amplia variedad de árboles y arbustos caracterizados por sus hojas grandes y en forma de abanico o plumas. Pueden ser árboles solitarios de troncos delgados y altos, como las palmas datileras, o formar densos grupos con múltiples tallos como las palmeras tropicales. Las palmas se encuentran en una variedad de hábitats, desde selvas tropicales hasta desiertos, y son apreciadas por su belleza ornamental y su utilidad para la producción de aceite de palma y otras materias primas.",
+    "adoptionDate": "01/03/2023"
+  },
+  {
+    "adoptionId": "c83c33f2-fbea-4a0d-bff4-e4774dc4ba3e",
+    "typeId": 8,
+    "landId": 9,
+    "typeName": "Palma",
+    "typeCommonName": "Palma",
+    "typeScientificName": "Arecaceae",
+    "description": "Las palmas (familia Arecaceae) incluyen una amplia variedad de árboles y arbustos caracterizados por sus hojas grandes y en forma de abanico o plumas. Pueden ser árboles solitarios de troncos delgados y altos, como las palmas datileras, o formar densos grupos con múltiples tallos como las palmeras tropicales. Las palmas se encuentran en una variedad de hábitats, desde selvas tropicales hasta desiertos, y son apreciadas por su belleza ornamental y su utilidad para la producción de aceite de palma y otras materias primas.",
+    "adoptionDate": "01/03/2023"
+  },
+  {
+    "adoptionId": "b92fda3e-f727-4154-92b6-63b36237d95b",
+    "typeId": 7,
+    "landId": 5,
+    "typeName": "Algarrobo",
+    "typeCommonName": "Algarrobo",
+    "typeScientificName": "Prosopis",
+    "description": "El Algarrobo (Prosopis spp.) es un árbol emblemático de las regiones áridas y semiáridas de América del Sur. Puede crecer hasta 20 metros de altura y tiene una copa amplia y frondosa con hojas compuestas y pequeñas flores amarillas o blancas que producen vainas de semillas comestibles. Es valorado por su madera resistente y su importancia cultural como fuente de alimento y sombra en las zonas áridas.",
+    "adoptionDate": "01/03/2023"
+  }
+]

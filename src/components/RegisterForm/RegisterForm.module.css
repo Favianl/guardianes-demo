@@ -1,0 +1,90 @@
+.form {
+  max-width: 500px;
+  margin: 2.5rem auto;
+  border: solid 1px;
+  padding: 3rem 5rem 2rem;
+  background-color: #fff;
+  border-radius: 15px;
+}
+.firstAndLastName {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.form label {
+  display: block;
+  width: 100%;
+  margin-top: 0.5rem;
+}
+.form input {
+  border-radius: 15px;
+  width: 100%;
+  margin-bottom: 0.5em;
+  border: 0.5px solid #5b5b5b;
+  border-radius: 16px;
+  padding: 8px 16px;
+}
+.form p {
+  color: darkred;
+}
+.form select {
+  width: 100%;
+  border-radius: 15px;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+}
+label p {
+  font-size: 10px;
+}
+.checklistPassword {
+  list-style: none;
+  padding-left: 1rem;
+}
+
+.checklistPassword > p {
+  color: var(--grayA);
+}
+
+.default::before {
+  padding-right: 10px;
+  content: '✗';
+  color: red;
+}
+.passReq {
+  font-size: 10px;
+  color: var(--grayA);
+}
+.default {
+  font-size: 10px;
+  color: var(--grayA);
+}
+.passReq::before {
+  padding-right: 8px;
+  content: '✓';
+  color: green;
+}
+
+.buttons {
+  margin-top: 2rem;
+}
+.submitButtonValid {
+  background-color: #31572c;
+  color: #fff;
+  border-radius: 10px;
+}
+.submitButton {
+  border-radius: 10px;
+  color: #aaa8a8;
+}
+.submitButton:hover {
+  background-color: #31572c;
+  color: #fff;
+}
+@media screen and (max-width: 767px) {
+  .form {
+    border: none;
+    padding: 1rem;
+  }
+}

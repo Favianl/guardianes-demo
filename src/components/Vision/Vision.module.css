@@ -1,0 +1,31 @@
+.visionContainer {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 2em 4rem;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(20%, 1fr));
+  gap: 20px;
+
+}
+
+.visionCard h3 {
+  color: #333;
+  font-size: 20px;
+}
+
+.visionCard p {
+  color: #666;
+  font-size: 16px;
+  margin: 0 auto;
+  width: 90%;
+}
+
+@media screen and (max-width: 768px) {
+  .visionCard{
+    width: 90%;
+    margin: 0 auto;
+  }
+  .visionContainer{
+    grid-template-columns:repeat(1, minmax(80%, 1fr));
+  }
+}

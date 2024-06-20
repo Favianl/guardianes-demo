@@ -1,0 +1,64 @@
+.form {
+  max-width: 500px;
+  margin: 4rem auto;
+  border: solid 1px;
+  padding: 4rem;
+  background-color: #fff;
+  border-radius: 15px;
+}
+
+.form label {
+  display: block;
+  width: 100%;
+  margin-top: 1rem;
+}
+
+.form label p {
+  color: darkred;
+}
+.form h3 {
+  padding-bottom: 10%;
+}
+.form input {
+  width: 100%;
+  margin-bottom: 1em;
+  border: 0.5px solid #5b5b5b;
+  border-radius: 16px;
+  padding: 8px 16px;
+}
+.forget {
+  float: right;
+  font-size: 14px;
+  color: #5b5b5b;
+  padding-bottom: 15%;
+}
+.goToRegister {
+  text-align: center;
+  padding-top: 20%;
+  color: #5b5b5b;
+  padding-bottom: 1rem;
+}
+.form a {
+  text-decoration: none;
+  color: #31572c;
+}
+.submitButtonValid {
+  background-color: #31572c;
+  color: #fff;
+  border-radius: 10px;
+}
+.submitButton {
+  border-radius: 10px;
+  color: #aaa8a8;
+}
+.submitButton:hover {
+  background-color: #31572c;
+  color: #fff;
+}
+
+@media screen and (max-width: 767px) {
+  .form {
+    border: none;
+    padding: 1rem;
+  }
+}
