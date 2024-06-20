@@ -1,6 +1,6 @@
-# GUARDIANES DEL BOSQUE - DEMO
+# Guardianes del Bosque - DEMO
 
-Aplicación web de financiación ...
+Aplicación web que permite apoyar la reforestación adoptando árboles a través de donaciones.
 
 [Guardianes del Bosque - Demo](https://favianl.github.io/guardianes-demo/#/adoption)
 \
