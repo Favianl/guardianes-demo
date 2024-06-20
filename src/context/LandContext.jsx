@@ -1,5 +1,6 @@
 import { createContext, useContext, useEffect, useState } from 'react';
-import { getJson, getLand } from '../api/land';
+import { getLand } from '../api/land';
+import landData from '../../public/api/data.json';
 
 export const LandContext = createContext();
 
@@ -16,7 +17,7 @@ export const useLand = () => {
 export const LandProvider = ({ children }) => {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
-  const [land, setLand] = useState(null);
+  const [land, setLand] = useState(landData);
 
   const [purchase, setPurchase] = useState([]);
 
@@ -26,10 +27,10 @@ export const LandProvider = ({ children }) => {
       setError(null);
       try {
         // const res = await getLand();
-        const res = await getJson();
-        if (res.status === 200) {
-          setLand(res.data);
-        }
+        // if (res.status === 200) {
+        //   setLand(res.data);
+        // }
+        setLand((prevState) => prevState);
       } catch (error) {
         if (error.response) {
           setError({

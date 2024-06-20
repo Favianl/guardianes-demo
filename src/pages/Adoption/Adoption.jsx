@@ -25,7 +25,7 @@ const Adoption = () => {
     const found = land.find((place) => place.id === id);
     setPlace(found);
 
-    if (place && id !== place.id) setPurchase([]);
+    setPurchase([]);
   };
 
   return (

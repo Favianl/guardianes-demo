@@ -1,4 +1,4 @@
-import { Link, useNavigate, useParams } from 'react-router-dom';
+import { Link, Navigate, useParams } from 'react-router-dom';
 import { FaArrowLeft } from 'react-icons/fa';
 import { treeImages } from '../../helpers/TreeImages.js';
 import styles from './AdoptionInfo.module.css';
@@ -7,23 +7,15 @@ import { useLand } from '../../context/LandContext';
 import TimeLine from '../TimeLine/TimeLine';
 import TreeInfo from '../TreeInfo/TreeInfo';
 import EditableField from '../EditableField/EditableField.jsx';
-import Loader from '../Loader/Loader.jsx';
-import { useEffect } from 'react';
 
 const AdoptionInfo = () => {
   const { adoptions } = useUser();
   const { land } = useLand();
   const { id } = useParams();
 
-  const navigate = useNavigate();
-
   const adoptionData = adoptions.find((item) => item.adoptionId === id);
 
-  useEffect(() => {
-    if (!adoptionData) navigate('/profile');
-  }, []);
-
-  if (!land) return <Loader fullscreen={true} />;
+  if (!adoptionData) return <Navigate to='/profile' />;
 
   const zoneInfo = land.find((item) => item.id === adoptionData.landId);
 
